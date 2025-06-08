@@ -1,6 +1,4 @@
-﻿using System.IO;
-
-namespace ConsoleQuizApp
+﻿namespace ConsoleQuizApp
 {
     /* Uses a record rather than a struct. A struct should represent a single logical
      * entity (e.g. point, up to 16B) whereas a record can be used to represent a more 
